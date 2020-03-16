@@ -9,3 +9,6 @@ Projet: 2048
 installation: simple
 
 test branch
+
+ordinateur
+
